@@ -5,5 +5,10 @@ Description: This projects goal is to have a mobile phone based image classifica
              another picture that removes stock from this same database. This gives the benifit of easy inventory managment to store owners
              and managers
              
-             
+Where is AI in the Solution?
+There is image classification using deep learning. Once a image is captured, algorithm will classify the object and update the user cart with quantity based price.
+
+What is business benefit?
+The quantity gets updated in overall stock database of business owner. So the business owner will take care of logistics with ease.
+           
              
